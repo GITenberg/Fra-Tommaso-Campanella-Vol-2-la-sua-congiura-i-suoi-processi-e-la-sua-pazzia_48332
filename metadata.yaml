@@ -20,6 +20,8 @@ language: it
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Fra Tommaso Campanella, Vol. 2
 
   la sua congiura, i suoi processi e la sua pazzia'
